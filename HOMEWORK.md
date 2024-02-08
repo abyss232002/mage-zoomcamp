@@ -32,12 +32,17 @@ For the homework, we'll be working with the green taxi dataset located here:
 ![Alt text](image-5.png)
 
 * Write your data as Parquet files to a bucket in GCP, partioned by lpep_pickup_date. Use the pyarrow library!
+<<<<<<< HEAD
   
 ![Alt text](image-9.png)
 * Schedule your pipeline to run daily at 5AM UTC.
 
 ![Alt text](image-10.png)
 
+=======
+* Schedule your pipeline to run daily at 5AM UTC.
+
+>>>>>>> 3d35f775c4cbb12f8338fb4b304437126a99cd1f
 ## **Questions**
 * **Question 1. Data Loading**
   * Once the dataset is loaded, what's the shape of the data?
